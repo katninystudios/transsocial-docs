@@ -1,17 +1,26 @@
-# Welcome to MkDocs
+# Welcome
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+If you're looking for TransSocial, TransSocial is available [here](https://transs.social/home). Otherwise, if you are looking for the developer documentation, welcome!
 
-## Commands
+This is where we'll share general information about TransSocial's API, code snippets, and help for getting started with the API.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## General Overview
+If you're looking for a general overview of the API altogether, please click [here](/overview).
 
-## Project layout
+## Public API
+If you're looking for information about the Public API, please click [here](/public/overview).
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+If you're looking how to start using the Public API, please click [here](/public/get-started). 
+
+## Protected API
+If you're looking for information about the Protected API, please click [here](/protected/overview).
+
+If you're looking for how to start using the Protected API, please click [here](/protected/get-started).
+
+## Activities API
+!!! warning
+    TransSocial Activities, at this current point in time, is more concept than being a real thing. These docs likely will not work correctly, and may be very quickly outdated *if* it does work. If we open the Activities API outside of just our own usage, we'll make sure to create stable documentation. However, in this current point in time, we're still in the **planning stage** of the Activities API.
+
+If you're looking for information about the Activities API, please click [here](/activities/overview).
+
+If you're looking for how to start using the Activities API, please click [here](/activities/get-started).
