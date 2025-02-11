@@ -1,0 +1,27 @@
+site_name: TransSocial Docs
+site_url: https://dev.transs.social
+theme:
+  name: material
+  font:
+    text: Gabarito
+  icon:
+    logo: fontawesome/solid/code
+  favicon: assets/favicon.png
+  features:
+    - navigation.footer
+  palette:
+    scheme: slate
+    primary: custom
+    accent: custom
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
